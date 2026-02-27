@@ -262,7 +262,7 @@ function Calendar() {
             })}
 
             {selectedMonth.items.length === 0 && (
-              <p className="text-gray-500 text-center py-4">No events in this month.</p>
+              <p className="text-gray-500 text-center py-4">No events in this Month.</p>
             )}
           </div>
         </div>
